@@ -1,7 +1,5 @@
 # CodeClause_Fake_News_Detection
 
-# Fake News Prediction using ML Techniques
-
 This project aims to develop a machine learning-based solution for predicting fake news. The goal is to create a model that can accurately classify news articles as either fake or genuine based on their content and other relevant features.
 
 ## Table of Contents
